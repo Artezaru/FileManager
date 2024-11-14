@@ -1,6 +1,7 @@
 # filemanager
 
 ## Description
+Manage and search files from computer.
 
 ## Author
 - Name: Artezaru
@@ -28,8 +29,6 @@ Generate the documentation with sphinx
 ```
 make html
 ```
-
-## Usage
 
 ## License
 See LICENSE

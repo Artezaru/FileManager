@@ -23,7 +23,7 @@ setup(
     version=read_version(),  # Update the version as necessary
     author="Artezaru",  # Your name
     author_email="artezaru.github@proton.me",  # Your email
-    description="",  # Short description of the package
+    description="Manage and search files from computer.",  # Short description of the package
     long_description=long_description,  # Read the long description from README
     long_description_content_type="text/markdown",  # Format of the long description
     url="https://github.com/Artezaru/filemanager.git",  # URL to the project repository
